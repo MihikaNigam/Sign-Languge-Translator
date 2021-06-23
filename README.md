@@ -6,6 +6,6 @@ provide a user interface to this ml model.
 
 dataset can be found here : https://www.kaggle.com/grassknoted/asl-alphabet
 
-The ml Jupyter notebooks folder consists of pyhton code for ml deep learning model.
+The ml Jupyter notebooks folder consists of python code for ml deep learning model.
 
 The flutter app code folder consists code for android application. 
